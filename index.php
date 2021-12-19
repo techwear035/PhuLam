@@ -1,3 +1,4 @@
+<p>Test Git</p>
 <?php 
 //include_once './admin/config.php';//
 //include_once './admin/pdo.php';
