@@ -18,7 +18,7 @@
 	<?php
     include './pages/menu.php'
     ?>
-    
+    <td>Hello Lam</td>
     <div id="templatemo_header">
     	<?php
         include './pages/header.php'
